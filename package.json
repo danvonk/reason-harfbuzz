@@ -20,8 +20,10 @@
     "@esy-ocaml/reason": "^3.3.7",
     "@opam/dune": ">=2.0.1",
     "@opam/dune-configurator": ">=2.0.1",
-    "esy-harfbuzz": "^1.9.1008",
-    "ocaml": ">=4.4.0"
+    "esy-harfbuzz": "danvonk/esy-harfbuzz#6628eda128057322a668fb8c11b0072ac09f9bd9",
+    "ocaml": "4.12.x"
+  },
+  "resolutions": {
+    "ocaml": "danvonk/ocaml:package.json#f6cf31a43c2b4c8ca3990c0f750c49e6210bea20"
   }
 }
-
